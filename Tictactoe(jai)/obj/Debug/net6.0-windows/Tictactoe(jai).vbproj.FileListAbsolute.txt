@@ -1,0 +1,17 @@
+C:\Users\63907\Desktop\test2\Tictactoe(jai)\Tictactoe(jai)\bin\Debug\net6.0-windows\Tictactoe(jai).exe
+C:\Users\63907\Desktop\test2\Tictactoe(jai)\Tictactoe(jai)\bin\Debug\net6.0-windows\Tictactoe(jai).deps.json
+C:\Users\63907\Desktop\test2\Tictactoe(jai)\Tictactoe(jai)\bin\Debug\net6.0-windows\Tictactoe(jai).runtimeconfig.json
+C:\Users\63907\Desktop\test2\Tictactoe(jai)\Tictactoe(jai)\bin\Debug\net6.0-windows\Tictactoe(jai).dll
+C:\Users\63907\Desktop\test2\Tictactoe(jai)\Tictactoe(jai)\bin\Debug\net6.0-windows\Tictactoe(jai).pdb
+C:\Users\63907\Desktop\test2\Tictactoe(jai)\Tictactoe(jai)\obj\Debug\net6.0-windows\Tictactoe(jai).vbproj.AssemblyReference.cache
+C:\Users\63907\Desktop\test2\Tictactoe(jai)\Tictactoe(jai)\obj\Debug\net6.0-windows\Tictactoe_jai_.Form1.resources
+C:\Users\63907\Desktop\test2\Tictactoe(jai)\Tictactoe(jai)\obj\Debug\net6.0-windows\Tictactoe(jai).vbproj.GenerateResource.cache
+C:\Users\63907\Desktop\test2\Tictactoe(jai)\Tictactoe(jai)\obj\Debug\net6.0-windows\Tictactoe(jai).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\63907\Desktop\test2\Tictactoe(jai)\Tictactoe(jai)\obj\Debug\net6.0-windows\Tictactoe(jai).AssemblyInfoInputs.cache
+C:\Users\63907\Desktop\test2\Tictactoe(jai)\Tictactoe(jai)\obj\Debug\net6.0-windows\Tictactoe(jai).AssemblyInfo.vb
+C:\Users\63907\Desktop\test2\Tictactoe(jai)\Tictactoe(jai)\obj\Debug\net6.0-windows\Tictactoe(jai).vbproj.CoreCompileInputs.cache
+C:\Users\63907\Desktop\test2\Tictactoe(jai)\Tictactoe(jai)\obj\Debug\net6.0-windows\Tictactoe(jai).dll
+C:\Users\63907\Desktop\test2\Tictactoe(jai)\Tictactoe(jai)\obj\Debug\net6.0-windows\refint\Tictactoe(jai).dll
+C:\Users\63907\Desktop\test2\Tictactoe(jai)\Tictactoe(jai)\obj\Debug\net6.0-windows\Tictactoe(jai).pdb
+C:\Users\63907\Desktop\test2\Tictactoe(jai)\Tictactoe(jai)\obj\Debug\net6.0-windows\Tictactoe(jai).genruntimeconfig.cache
+C:\Users\63907\Desktop\test2\Tictactoe(jai)\Tictactoe(jai)\obj\Debug\net6.0-windows\ref\Tictactoe(jai).dll
