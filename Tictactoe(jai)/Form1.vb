@@ -151,7 +151,7 @@
 
     End Sub
     Private Sub newgame_()
-        Dim random As Integer = 0
+        random = 0
 
         b1.Enabled = True
         b2.Enabled = True
@@ -184,7 +184,7 @@
         b_9.BackColor = Color.Transparent
     End Sub
     Private Sub reset_()
-        Dim random As Integer = 0
+        random = 0
         playerO = 0
         playerX = 0
 
@@ -211,15 +211,15 @@
         b8.Text = ""
         b_9.Text = ""
 
-        b1.BackColor = Color.Transparent
-        b2.BackColor = Color.Transparent
-        b3.BackColor = Color.Transparent
-        b4.BackColor = Color.Transparent
-        b5.BackColor = Color.Transparent
-        b6.BackColor = Color.Transparent
-        b7.BackColor = Color.Transparent
-        b8.BackColor = Color.Transparent
-        b_9.BackColor = Color.Transparent
+        b1.BackColor = Color.Black
+        b2.BackColor = Color.Black
+        b3.BackColor = Color.Black
+        b4.BackColor = Color.Black
+        b5.BackColor = Color.Black
+        b6.BackColor = Color.Black
+        b7.BackColor = Color.Black
+        b8.BackColor = Color.Black
+        b_9.BackColor = Color.Black
     End Sub
     Private Sub exit_()
         Application.Exit()
