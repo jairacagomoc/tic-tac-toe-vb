@@ -32,6 +32,14 @@
             MessageBox.Show("THE WINNER IS PLAYER X !!!", "TIC-TAC-TOE", MessageBoxButtons.OK, MessageBoxIcon.Information)
             playerX += 1
             scoreX.Text = playerX
+        ElseIf (b1.Text = "X" And b5.Text = "X" And b7.Text = "X") Then
+            b1.BackColor = Color.IndianRed
+            b5.BackColor = Color.IndianRed
+            b7.BackColor = Color.IndianRed
+            disAbler()
+            MessageBox.Show("THE WINNER IS PLAYER X !!!", "TIC-TAC-TOE", MessageBoxButtons.OK, MessageBoxIcon.Information)
+            playerX += 1
+            scoreX.Text = playerX
         ElseIf (b1.Text = "X" And b5.Text = "X" And b_9.Text = "X") Then
             b1.BackColor = Color.IndianRed
             b5.BackColor = Color.IndianRed
@@ -81,56 +89,64 @@
             b3.BackColor = Color.IndianRed
             disAbler()
             MessageBox.Show("THE WINNER IS PLAYER O !!!", "TIC-TAC-TOE", MessageBoxButtons.OK, MessageBoxIcon.Information)
-            playerX += 1
-            scoreX.Text = playerX
+            playerO += 1
+            scoreO.Text = playerO
         ElseIf (b1.Text = "O" And b4.Text = "O" And b7.Text = "O") Then
             b1.BackColor = Color.IndianRed
             b4.BackColor = Color.IndianRed
             b7.BackColor = Color.IndianRed
             disAbler()
             MessageBox.Show("THE WINNER IS PLAYER O !!!", "TIC-TAC-TOE", MessageBoxButtons.OK, MessageBoxIcon.Information)
-            playerX += 1
-            scoreX.Text = playerX
+            playerO += 1
+            scoreO.Text = playerO
         ElseIf (b1.Text = "O" And b5.Text = "O" And b_9.Text = "O") Then
             b1.BackColor = Color.IndianRed
             b5.BackColor = Color.IndianRed
             b_9.BackColor = Color.IndianRed
             disAbler()
             MessageBox.Show("THE WINNER IS PLAYER O !!!", "TIC-TAC-TOE", MessageBoxButtons.OK, MessageBoxIcon.Information)
-            playerX += 1
-            scoreX.Text = playerX
+            playerO += 1
+            scoreO.Text = playerO
+        ElseIf (b1.Text = "O" And b5.Text = "O" And b7.Text = "O") Then
+            b1.BackColor = Color.IndianRed
+            b5.BackColor = Color.IndianRed
+            b7.BackColor = Color.IndianRed
+            disAbler()
+            MessageBox.Show("THE WINNER IS PLAYER O !!!", "TIC-TAC-TOE", MessageBoxButtons.OK, MessageBoxIcon.Information)
+            playerO += 1
+            scoreO.Text = playerO
         ElseIf (b2.Text = "O" And b5.Text = "O" And b8.Text = "O") Then
             b2.BackColor = Color.IndianRed
             b5.BackColor = Color.IndianRed
             b8.BackColor = Color.IndianRed
             disAbler()
             MessageBox.Show("THE WINNER IS PLAYER O !!!", "TIC-TAC-TOE", MessageBoxButtons.OK, MessageBoxIcon.Information)
-            playerX += 1
-            scoreX.Text = playerX
+            playerO += 1
+            scoreO.Text = playerO
         ElseIf (b3.Text = "O" And b6.Text = "O" And b_9.Text = "O") Then
             b3.BackColor = Color.IndianRed
             b6.BackColor = Color.IndianRed
             b_9.BackColor = Color.IndianRed
             disAbler()
             MessageBox.Show("THE WINNER IS PLAYER O !!!", "TIC-TAC-TOE", MessageBoxButtons.OK, MessageBoxIcon.Information)
-            playerX += 1
-            scoreX.Text = playerX
+            playerO += 1
+            scoreO.Text = playerO
         ElseIf (b4.Text = "O" And b5.Text = "O" And b6.Text = "O") Then
             b4.BackColor = Color.IndianRed
             b5.BackColor = Color.IndianRed
             b6.BackColor = Color.IndianRed
             disAbler()
             MessageBox.Show("THE WINNER IS PLAYER O !!!", "TIC-TAC-TOE", MessageBoxButtons.OK, MessageBoxIcon.Information)
-            playerX += 1
-            scoreX.Text = playerX
+            playerO += 1
+            scoreO.Text = playerO
         ElseIf (b7.Text = "O" And b8.Text = "O" And b_9.Text = "O") Then
             b7.BackColor = Color.IndianRed
             b8.BackColor = Color.IndianRed
             b_9.BackColor = Color.IndianRed
             disAbler()
             MessageBox.Show("THE WINNER IS PLAYER O !!!", "TIC-TAC-TOE", MessageBoxButtons.OK, MessageBoxIcon.Information)
-            playerX += 1
-            scoreX.Text = playerX
+            playerO += 1
+            scoreO.Text = playerO
         End If
 
     End Sub
